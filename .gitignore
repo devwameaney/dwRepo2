@@ -1,0 +1,4 @@
+# comments are ignored
+*.txt
+*.csv
+employee.py
