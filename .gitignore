@@ -1,4 +1,11 @@
+# 2023/10/09
 # comments are ignored
 *.txt
 *.csv
 emp.py
+
+# 2023/10/10
+#change mind : want .env removed, /RES and ?RES/forms.csv back
+.env
+!/RES
+!/RES/forms.csv
