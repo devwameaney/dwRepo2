@@ -1,7 +1,11 @@
 # 2023/10/09
 # comments are ignored
-*.txt
-*.csv
+#*.txt
+#*.csv
+
+# or as a list
+*[.txt, .csv, 'css]
+
 emp.py
 
 # 2023/10/10
